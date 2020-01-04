@@ -1,0 +1,2 @@
+springCloud Config即服务配置中心的仓库
+ 天气预报实战项目需要的仓库文件夹config-repo-202001weather
